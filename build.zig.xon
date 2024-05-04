@@ -1,0 +1,8 @@
+.{
+    .name = "learning",
+    .paths = .{""},
+    .version = "0.0.0",
+    .dependencies = .{
+        .calc = .{ .url = "https://github.com/karlseguin/calc.zig/archive/d1881b689817264a5644b4d6928c73df8cf2b193.tar.gz", .hash = "122036b1948caa15c2c9054286b3057877f7b152a5102c9262511bf89554dc836ee5" },
+    },
+}
